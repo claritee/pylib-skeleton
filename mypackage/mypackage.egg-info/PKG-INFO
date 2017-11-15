@@ -41,8 +41,17 @@ Description:
         ### Analysis
         
         
+        ## Running notebook
         
+        ```
+        make notebook-fg
+        ```
         
+        ## Running tests
+        
+        ```
+        make tests
+        ```
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
